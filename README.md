@@ -11,11 +11,6 @@ This repository contains a collection of Python scripts that demonstrate how to 
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -32,4 +27,3 @@ This repository contains a collection of Python scripts that demonstrate how to 
 You can install the required dependencies using `pip` or `conda`.
 
 ```bash
-pip install torch numpy matplotlib
