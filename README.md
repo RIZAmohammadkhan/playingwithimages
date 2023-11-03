@@ -1,6 +1,7 @@
 # Playing with Images - Color Manipulation using PyTorch
 
-![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png)
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo" width="200" height="200">
+
 
 ## Introduction
 
